@@ -601,15 +601,20 @@ height: 2.5rem;
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                h1{
-                    font-size: 2.5rem;
-                }
-                p{
-                    font-size: 0.8rem;
-                    text-align: center;
-                }
+                
                 .statsItems{
                     padding: 1rem 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    h1{
+                        font-size: 2.5rem;
+                    }
+                    p{
+                        font-size: 0.8rem;
+                        text-align: center;
+                    }
                 }
             }
             .paragraphStat{
