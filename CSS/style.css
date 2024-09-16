@@ -1176,7 +1176,7 @@ height: 2.5rem;
             .boldText{
                 font-weight: 800;
             }
-          .arrowCircle{
+          #arrowCircle{
             margin-left: 0;
            padding: 0.3rem;
             
