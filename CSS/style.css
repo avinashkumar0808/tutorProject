@@ -1886,6 +1886,9 @@ img{
     .footer .socialMediaIcons i{
         font-size: 1.4rem;
     }
+    .footer .socialMediaIcons i:hover{
+      background-color: #FBBA50;
+    }
    .footer .linksInFooter{
     border-top: none;
    }
