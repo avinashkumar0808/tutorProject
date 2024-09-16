@@ -472,8 +472,8 @@ height: 2.5rem;
         margin: 0 20%;
         display: flex;
         align-items: flex-start;
-        justify-content: center;
-        gap: 3rem;
+        justify-content: space-between;
+       
         padding: 0.8rem;
         .about{
             margin-bottom: 1rem;
@@ -487,7 +487,7 @@ height: 2.5rem;
             .boldText{
                 font-weight: 800;
             }
-          .arrowCircle{
+          #arrowCircle{
             margin-left: 0;
             height: 1.5rem;
             width: 1.5rem;
@@ -506,7 +506,7 @@ height: 2.5rem;
                 object-fit: cover;
                 object-position: center;
                 transform: translate(-70%,-50%) rotate(90deg);
-                display: none;
+                
             }
           }
         }
