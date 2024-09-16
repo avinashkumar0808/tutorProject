@@ -198,7 +198,7 @@ height: 2.5rem;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         transition: img 0.2s ease;
         .photoAndText{
-         
+         padding-bottom: 1rem;
         img{
             height: 80%;
             width: 100%;
