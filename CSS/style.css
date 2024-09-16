@@ -1526,12 +1526,13 @@ height: 2.5rem;
    .navigation{
     /* display: none; */
     /* background-color: red; */
-    padding: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
     padding-left: 16%;
 
    z-index: 999;
-   min-height: 7vh;
-   max-height: 47vh;
+  height: fit-content;
     img[alt="tutor"]{
         height: 2rem;
     }
