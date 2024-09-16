@@ -1178,9 +1178,9 @@ height: 2.5rem;
             }
           #arrowCircle{
             margin-left: 0;
-           padding: 0.3rem;
+           padding: 0.4rem;
             
-            margin-right: 0.5rem;
+            margin-right: 0.35rem;
             background-color: #F85259;
             border-radius: 50%;
             display: inline-block;
@@ -1191,7 +1191,7 @@ height: 2.5rem;
                 position: absolute;
                 top: 50%;
                 left: 50%;
-                width: 0.25rem;
+                width: 0.2rem;
                 object-fit: cover;
                 object-position: center;
                 transform: translate(-50%,-50%) rotate(90deg);
