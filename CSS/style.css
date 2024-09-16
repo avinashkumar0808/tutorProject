@@ -437,7 +437,7 @@ height: 2.5rem;
                     display: inline-block;
                     position: absolute;
                     left: 8%;
-                    transform: translateX(-50%);
+                    transform: translateX(-45%);
                     bottom: 0;
             }
             
@@ -531,7 +531,7 @@ height: 2.5rem;
                 display: inline-block;
                 position: absolute;
                 left: 8%;
-                transform: translateX(-50%);
+                transform: translateX(-45%);
                 bottom: 0;
         }
         
