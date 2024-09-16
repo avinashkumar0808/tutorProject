@@ -473,6 +473,7 @@ height: 2.5rem;
         display: flex;
         align-items: center;
         justify-content: center;
+        gap: 3rem;
         .about{
             margin-bottom: 1rem;
             display: flex;
@@ -498,18 +499,21 @@ height: 2.5rem;
             position: relative;
             img{
                 position: absolute;
-                top: 50%;
-                left: 50%;
-                width: 0.5rem;
+                top: 50% !important;
+                left: 50% !important;
+                width: 0.5rem !important;
                 object-fit: cover;
                 object-position: center;
                 transform: translate(-70%,-50%) rotate(90deg);
+                display: none;
             }
           }
         }
       img{
-        width: 40%;
-        height: 100%;
+        width: 50%;
+        height: 20rem;
+        object-fit: cover;
+        object-position: center;
       }
       .leftSideOfCourseDetails{
         width: 60%;
