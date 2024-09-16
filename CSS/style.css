@@ -489,8 +489,7 @@ height: 2.5rem;
             }
           #arrowCircle{
             margin-left: 0;
-            height: 1.5rem;
-            width: 1.5rem;
+          padding: 0.8rem;
             margin-right: 0.5rem;
             background-color: #F85259;
             border-radius: 50%;
