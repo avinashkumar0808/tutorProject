@@ -603,11 +603,12 @@ height: 2.5rem;
                 justify-content: space-between;
                 
                 .statsItems{
-                    padding: 1rem 0;
+                    padding: 1rem;
                     display: flex;
                     align-items: center;
-                    justify-content: center;
+                    justify-content: flex-start;
                     flex-direction: column;
+                    height: 6rem;
                     h1{
                         font-size: 2.5rem;
                     }
