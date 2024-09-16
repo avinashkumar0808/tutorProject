@@ -1526,7 +1526,9 @@ height: 2.5rem;
    .navigation{
     /* display: none; */
     /* background-color: red; */
+    padding: 0.5rem;
     padding-left: 16%;
+
    z-index: 999;
    min-height: 7vh;
    max-height: 47vh;
